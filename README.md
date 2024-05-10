@@ -27,7 +27,7 @@ The assumption and common practice that women and girls look after the home and 
 
 For more detailed information [refer to the official Whisper documentation ](https://github.com/linto-ai/whisper-timestamped).
 
-##Supported Languages
+## Supported Languages
 
 Whisper supports the following languages:
 
